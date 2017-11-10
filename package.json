@@ -6,7 +6,3 @@
     "node": "6.11.1"
   }
 }
-
-"scripts": {
-  "start": "node server.js"
-}
