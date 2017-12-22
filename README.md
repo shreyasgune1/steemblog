@@ -1,9 +1,7 @@
-## steemblog: A simple blog for steem blockchain
-
 ### Languages:
 * HTML
 * Node.js
-## This is just a draft, we need more work. The vision is explained below:
+## This web app is still in ideation stage, we need a LOT of work to materialize !. The vision is explained below:
 
 There is a genuine need for diversification of steemit platform into various smaller genre based platforms for better engagement, better quality of submissions and incentivizing formation of communities that share the same passion.
 
